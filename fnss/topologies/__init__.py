@@ -4,3 +4,4 @@ from fnss.topologies.parsers import *
 from fnss.topologies.randmodels import *
 from fnss.topologies.simplemodels import *
 from fnss.topologies.topology import *
+from fnss.topologies.interconnect import *
